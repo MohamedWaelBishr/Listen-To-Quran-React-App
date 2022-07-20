@@ -1,34 +1,42 @@
 .parent {
-    position: relative;
-    height: 100vh;
-    width: 100%;
-  }
-  
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
 .child {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 50%;
-  }
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+}
 
+.rhap_volume-indicator {
+  background: #000;
+}
 
-  .rhap_volume-indicator{
-    background: #000;
-  }
+.rhap_main-controls-button {
+  color: #000;
+}
 
-  .rhap_main-controls-button{
-    color: #000;
-  }
+.rhap_volume-button {
+  color: #000;
+}
 
-  .rhap_volume-button{
-    color:#000
-  }
+.rhap_progress-indicator {
+  background: #000;
+}
 
-  .rhap_progress-indicator{
-    background: #000;
-  }
+.rhap_repeat-button {
+  color: #000;
+}
 
-  .rhap_repeat-button{
-    color: #000;
-  }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.progress-bar {
+  background-color: transparent !important;
+}
