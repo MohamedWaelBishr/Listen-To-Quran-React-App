@@ -1,4 +1,5 @@
-# Demo : https://quran-by-bishr.netlify.app/
+# Demo 1: https://quran-by-bishr.netlify.app/
+# Demo 2: https://quran-app-bishr.netlify.app/
 
 # Getting Started with Create React App
 
